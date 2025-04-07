@@ -1,5 +1,5 @@
 from friendsbalt.acs import Graph
-from components_solution import Components
+from components import Components
 
 def test_component_of():
     g = Graph(5)
